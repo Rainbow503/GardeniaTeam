@@ -15,9 +15,6 @@
 
 - [https://demo.wookteam.com](https://demo.wookteam.com) (admin/123456)
 
-## 微信咨询
-
-- ![二维码](./resources/assets/statics/other/wxqr.jpeg)
 
 ## 技术选型
 
@@ -34,16 +31,16 @@
 ## 功能简介
 
 **1. 待办四象限：突出事情优先级，帮助员工合理安排时间，提高工作效率**
-![待办四象限：突出事情优先级，帮助员工合理安排时间，提高工作效率](./resources/assets/statics/images/index/todo.jpg)
+待办四象限：突出事情优先级，帮助员工合理安排时间，提高工作效率
 
 **2. 在线流程图：在线流程图工具，使用方便**
-![在线流程图：在线流程图工具，使用方便](./resources/assets/statics/images/index/banner/1.jpg)
+在线流程图：在线流程图工具，使用方便
 
 **3. 在线思维导图：梳理思路，优化工作流程**
-![在线思维导图：梳理思路，优化工作流程](./resources/assets/statics/images/index/banner/2.jpg)
+在线思维导图：梳理思路，优化工作流程
 
 **4. 项目管理：自定义项目看板，可视化任务安排**
-![项目管理：自定义项目看板，可视化任务安排](./resources/assets/statics/images/index/project.jpg)
+项目管理：自定义项目看板，可视化任务安排
 
 **5. 在线知识库：在线流程图，在线文档，以及可视化的目录编排，文档管理无忧**
-![在线知识库：在线流程图，在线文档，以及可视化的目录编排，文档管理无忧](./resources/assets/statics/images/index/wiki.jpg)
+在线知识库：在线流程图，在线文档，以及可视化的目录编排，文档管理无忧
